@@ -1,0 +1,19 @@
+{
+  "name": "JavaScript-autoComplete",
+  "version": "1.0.0",
+  "description": " An extremely lightweight and powerful vanilla JavaScript completion suggester",
+  "main": "auto-complete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/splitfire-agency/JavaScript-autoComplete.git"
+  },
+  "author": "Pixabay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/splitfire-agency/JavaScript-autoComplete/issues"
+  },
+  "homepage": "https://github.com/splitfire-agency/JavaScript-autoComplete"
+}
